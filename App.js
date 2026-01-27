@@ -1,13 +1,13 @@
 import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Header from "./components/Header";
-import Footer from "./components/Footer";
-import Home from "./pages/Home";
-import LaCasa from "./pages/LaCasa";
-import Turismo from "./pages/Turismo";
-import AprendizajeColaborativo from "./pages/AprendizajeColaborativo";
-import Profesionales from "./pages/Profesionales";
-import Contacto from "./pages/Contacto";
+import Header from "./Header";
+import Footer from "./Footer";
+import Home from "./Home";
+import LaCasa from "./LaCasa";
+import Turismo from "./Turismo";
+import AprendizajeColaborativo from "./AprendizajeColaborativo";
+import Profesionales from "./Profesionales";
+import Contacto from "./Contacto";
 
 function App() {
   return (
