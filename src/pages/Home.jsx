@@ -33,7 +33,7 @@ const Home = () => {
             Ongi etorri<br />Graciosenea
           </h1>
           <p className="text-xl md:text-2xl mb-4 font-light">
-            Versatilidad y patrimonio del siglo XIX
+            Versatilidad y patrimonio del siglo XX
           </p>
           <p className="text-lg md:text-xl mb-12 max-w-3xl mx-auto">
             Un lugar para descansar, crear o aprender. Talleres de oficios, saberes populares y música.
@@ -60,7 +60,7 @@ const Home = () => {
               Descubre Graciosenea
             </h2>
             <p className="text-xl text-[#5A5F4D] max-w-3xl mx-auto">
-              Un lugar único para descansar, aprender y conectar con la historia
+              Un lugar único para descansar, aprender y conectar con la historia del valle
             </p>
           </div>
 
@@ -178,7 +178,7 @@ const Home = () => {
                   className="text-4xl font-bold text-white"
                   style={{ fontFamily: "'Playfair Display', serif" }}
                 >
-                  Valle de Baztán-Bidaso
+                  Valle de Baztán-Bidasoa
                 </h2>
               </div>
               <p className="text-xl text-white/90 mb-6">
