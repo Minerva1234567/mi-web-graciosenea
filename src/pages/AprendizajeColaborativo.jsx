@@ -64,7 +64,7 @@ const AprendizajeColaborativo = () => {
         </div>
         <div className="relative z-10 text-center text-white px-6 max-w-4xl">
           <h1
-            className="text-5xl md:text-6xl font-bold mb-6"
+            className="text-5xl md:text-6xl font-bold mb-6 text-[#FDFFD2]"
             style={{ fontFamily: "'Playfair Display', serif" }}
           >
             Aprendizaje Colaborativo

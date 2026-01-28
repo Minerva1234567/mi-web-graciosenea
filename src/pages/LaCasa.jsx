@@ -90,7 +90,7 @@ const LaCasa = () => {
         </div>
         <div className="relative z-10 text-center text-white px-6">
           <h1
-            className="text-5xl md:text-6xl font-bold mb-4"
+            className="text-5xl md:text-6xl font-bold mb-4 text-[#FDFFD2]"
             style={{ fontFamily: "'Playfair Display', serif" }}
           >
             La Casa
