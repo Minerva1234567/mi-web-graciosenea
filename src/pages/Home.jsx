@@ -27,7 +27,7 @@ const Home = () => {
         <div className="relative z-10 text-center text-white px-6 max-w-5xl">
           <p className="text-lg md:text-xl mb-4 tracking-wider">Valle de Baztán-Bidasoa</p>
           <h1
-            className="text-5xl md:text-7xl font-bold mb-6"
+            className="text-5xl md:text-7xl font-bold mb-6 text-[#FDFFD2]"
             style={{ fontFamily: "'Playfair Display', serif" }}
           >
             Ongi etorri<br />Graciosenea
