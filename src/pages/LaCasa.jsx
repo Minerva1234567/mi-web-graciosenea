@@ -95,7 +95,7 @@ const LaCasa = () => {
           >
             La Casa
           </h1>
-          <p className="text-xl md:text-2xl">Graciosenea: Una residencia señorial del siglo XIX</p>
+          <p className="text-xl md:text-2xl">Graciosenea: Una casa rural de principios del siglo XX</p>
         </div>
       </section>
 
@@ -110,8 +110,7 @@ const LaCasa = () => {
               Versatilidad y Patrimonio
             </h2>
             <p className="text-lg text-[#5A5F4D] text-center mb-8">
-              Casa unifamiliar imponente del siglo XIX en Ventas de Donamaría, dominando el
-              paisaje. Restaurada, no renovada, conservando su alma original.
+              Casa unifamiliar imponente del siglo XX en Ventas de Donamaría. Restaurada, no renovada, conservando su alma original.
             </p>
             <p className="text-lg text-[#5A5F4D] text-center">
               Con suelos de madera encerada, techos altos y decoración de época, Graciosenea te
@@ -217,7 +216,7 @@ const LaCasa = () => {
             <div className="bg-white rounded-lg p-8 shadow-lg">
               <div className="mb-6">
                 <p className="text-sm text-[#9B2C2C] font-semibold mb-2">
-                  2 Dobles + 3 Camas individuales
+                  2 habitaciones de matrimonio + 3 habitaciones dobles + opción 1 cama supletoria
                 </p>
                 <h3
                   className="text-2xl font-bold mb-2"
@@ -228,7 +227,7 @@ const LaCasa = () => {
                 <p className="text-4xl font-bold text-[#9B2C2C]">80€/noche</p>
               </div>
               <p className="text-[#5A5F4D] mb-6">
-                Habitaciones espaciosas que respetan la escala y materiales originales, con suelos
+                Habitaciones espaciosas que respetan los materiales originales, con suelos
                 de madera encerada y mobiliario de época. Desayuno incluido.
               </p>
               <ul className="space-y-3 mb-8">

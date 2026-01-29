@@ -21,7 +21,7 @@ const Turismo = () => {
           >
             Turismo Rural
           </h1>
-          <p className="text-xl md:text-2xl">Descanso tradicional en el Valle de Baztán</p>
+          <p className="text-xl md:text-2xl">Descanso en el Valle de Baztán</p>
         </div>
       </section>
 
@@ -36,7 +36,7 @@ const Turismo = () => {
               Alojamiento Tradicional
             </h2>
             <p className="text-lg text-[#5A5F4D]">
-              Disfruta de un descanso auténtico en nuestra casa señorial del siglo XIX.
+              Disfruta de un descanso auténtico en nuestra casa señorial del siglo XX.
               Desayuno incluido en todas las modalidades de alojamiento.
             </p>
           </div>

@@ -6,7 +6,7 @@ const Profesionales = () => {
     {
       icon: <Users size={32} />,
       title: 'Capacidad',
-      description: 'Hasta 11 personas alojadas. Sala común para 8-12 en formación intensiva.',
+      description: 'Hasta 11 personas alojadas. Sala común para 8-11 en formación intensiva.',
     },
     {
       icon: <Utensils size={32} />,

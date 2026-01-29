@@ -118,7 +118,7 @@ const Home = () => {
                   Aprendizaje Colaborativo
                 </h3>
                 <p className="text-[#5A5F4D] mb-6">
-                  Convivencia, talleres de autosuficiencia y cocina colaborativa.
+                  Convivencia, todas las comidas en cocina colaborativa y talleres de oficios rurales.
                   Todo incluido por 40€/persona/noche.
                 </p>
                 <Link

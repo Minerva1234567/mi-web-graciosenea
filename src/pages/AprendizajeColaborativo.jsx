@@ -96,19 +96,15 @@ const AprendizajeColaborativo = () => {
                   una experiencia compartida.
                 </p>
                 <p className="text-lg text-[#5A5F4D]">
-                  No es un curso, no es un retiro. Es <strong>vida en comunidad</strong> con personas que
-                  comparten el deseo de aprender, crear y vivir de forma más consciente y autónoma.
+                  No es un curso, no es un retiro. Es convivencia con personas que comparten el deseo de aprender, crear y vivir de forma más consciente y autónoma. 
                 </p>
               </div>
               <div>
                 <p className="text-lg text-[#5A5F4D] mb-4">
-                  Aquí <strong>cocinas colaborativamente</strong>, participas en tareas del hogar,
-                  aprendes carpintería básica, creas tus propios jabones, cuidas la huerta y descubres
-                  oficios que te hacen más autónomo.
-                </p>
+                  Se desarrollan talleres de distintas temáticas a lo largo del día, según los intereses de los convivientes o para abordar necesidades, como el cultivo de la huerta, la elaboración de jabones, queso o algunos muebles. 
                 <p className="text-lg text-[#5A5F4D]">
-                  Todo ello en una <strong>casa señorial del siglo XIX</strong>, rodeado de naturaleza y
-                  junto a personas que comparten tus intereses.
+                  El lenguaje común es la intención de abordar las tareas y aprendizajes que supone la vida en el campo de forma práctica, desde la compañía, la seguridad y la calma. Todo ello en una casa del siglo XX, restaurada y regentada por exurbanitas, rodeado de naturaleza y junto a personas que comparten tus intereses.
+                </p>
                 </p>
               </div>
             </div>
@@ -125,10 +121,10 @@ const AprendizajeColaborativo = () => {
                 </h3>
               </div>
               <p className="text-xl mb-6 text-white/90">
-                Alojamiento + Cocina colaborativa + Talleres + Convivencia
+                Alojamiento + Comida incluida + Talleres + Convivencia
               </p>
               <p className="text-white/80">
-                Todo incluido. Mínimo 3 noches para una experiencia completa.
+                Todo incluido. Se cocina de forma colaborativa. Mínimo 3 noches para una experiencia completa.
               </p>
             </div>
           </div>
@@ -250,8 +246,8 @@ const AprendizajeColaborativo = () => {
                   Convivencia y aprendizaje
                 </h3>
                 <p className="text-lg text-[#5A5F4D]">
-                  Mañanas de talleres prácticos, tardes libres para explorar el valle, y cocina
-                  colaborativa. Horarios flexibles adaptados al ritmo del grupo.
+                  Mañanas o tardes de talleres prácticos, rutas de montaña, tiempo libre para explorar el valle y cocina
+                  colaborativa. Horarios flexibles adaptados al ritmo del grupo. Compatibilidad con teletrabajo.
                 </p>
               </div>
             </div>
